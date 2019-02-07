@@ -1,0 +1,21 @@
+1. (5 points) Watch the following two videos on selection sort. Even though they both get the correct answer, one of them is algorithmically wrong (meaning it does not follow the selection sort algorithm verbatim and modifies it). Which of the two is wrong? What is the mistake?
+
+Selection Sort:
+https://www.youtube.com/watch?v=0-W8OEwLebQ  (Links to an external site.)Links to an external site.
+Selection sort:
+Selection Sort: Itik-itik Dance (Links to an external site.)Links to an external site.
+Selection Sort: Itik-itik Dance
+
+2. (10 points) Use the algorithm learned in class and implement insertion sort using c++.
+
+3. (10 points) Show all steps (draw data structures at each step, etc.) for questions a-e below:
+
+a. Simulate selection sort by hand on the array 1 7 8 5 3 6 4 2.
+b. Simulate insertion sort by hand on the array 1 7 8 5 3 6 4 2.
+c. Simulate merge sort by hand on the array 1 7 8 5 3 6 4 2.
+d. Simulate quick sort by hand on the array 1 7 8 5 3 6 4 2.
+e. Simulate heap sort by hand on the array 1 7 8 5 3 6 4 2.
+
+4. (10points) Provide sorting capability for the professor in our Office Hours Simulation. Recall that the professor has a running file which keeps track of the student name and question topics for 100 office hours. Create a sorting function which takes in the file, column (studentName or questionTopic), and sorting direction (ascending or descending) as arguments and sorts the file accordingly. You may use any of the sorting algorithms covered in class.
+
+5. (5 points) Peer Review
